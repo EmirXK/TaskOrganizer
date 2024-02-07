@@ -5,6 +5,7 @@ A simple JavaFX project that lets you add, update, delete, store, display, and o
 The default login information is:
 
 Username: admin
+
 Password: 1234
 
 # Run
