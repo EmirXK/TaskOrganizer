@@ -3,6 +3,7 @@
 A simple JavaFX project that lets you add, update, delete, store, display, and organize tasks you can enter.
 
 The default login information is:
+
 Username: admin
 Password: 1234
 
